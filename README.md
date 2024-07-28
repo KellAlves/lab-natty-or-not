@@ -25,7 +25,7 @@ Suno：
 |  Música  | Funky documentary background fun music about AI
 
 ## 🚀 Resultados
-Os resultados do seu projeto podem ser conferidos dentro deste link: <a href=" https://github.com/KellAlves/lab-natty-or-not/tree/main/assets-kell">Resultados</a>
+Os resultados do seu projeto podem ser conferidos dentro deste link: <a href="https://github.com/KellAlves/lab-natty-or-not/tree/main/assets-kell">Resultados</a>
 
 ## 💭 Reflexão (Opcional)
 O grande desafio de criar algo 'natty' com IA é treinar modelos que não só entendam contextos complexos, mas também consigam replicar as nuances sutis da comunicação e do comportamento humanos. Isso exige dados variados e de alta qualidade, além de técnicas avançadas de processamento de linguagem natural e aprendizado profundo, para capturar a riqueza da experiência humana de maneira autêntica e natural como humanos fariam.
